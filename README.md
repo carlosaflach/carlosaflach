@@ -8,7 +8,7 @@
 ## About Me 🚀
 🚀 I am a Web  Full Stack Developer student at <a href="https://www.betrybe.com/">Trybe</a>. </br>
 🌱 I am a Software Engineer bachelor's degree student. </br>
-👨‍💻  I am passionate about technology, learning new skills, getting to know new cultures, traveling and making a difference in the world. </br>
+👨‍💻 I am passionate about technology, learn new skills, know new cultures, traveling and make a difference in the world. </br>
 💼 I'm looking for an opportunity to develop my career. </br>
 💬 Willing to contribute more and more in Open Source Projects </br>
 
