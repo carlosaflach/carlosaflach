@@ -53,10 +53,10 @@
 
 
 <!-- <details> -->
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/carlosaflach"><img alt="Carlos Afonso Flach Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=carlosaflach&custom_title=Carlos%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
 
 <!-- </details> -->
 
