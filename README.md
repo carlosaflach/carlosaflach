@@ -13,7 +13,7 @@
 
 <h2> Skills <img id="Skills" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
 <div style="display: inline_block" align="center">
-<a href="#"  scroll-behavior="smooth">
+<a href="#">
     <img align="center" alt="node" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
 <a href="#">
     <img align="center" alt="sql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
