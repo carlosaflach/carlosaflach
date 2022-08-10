@@ -28,9 +28,6 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </a>
 <a href="#">
-    <img align="center" alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-</a>  
-<a href="#">
     <img align="center" alt="agile methodology" src="https://img.shields.io/badge/agile_methodology-239120?style=for-the-badge">
 </a>
 <a href="#">
