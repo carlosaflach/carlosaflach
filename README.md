@@ -8,8 +8,17 @@
 ## About Me 🚀
 🌱 I am a Web  Full Stack Developer student at <a href="https://www.betrybe.com/">Trybe</a>. </br>
 👨‍💻 I am passionate about technology, learn new skills, know new cultures, travel and make a difference in the world. </br>
+💻 I am currently studying the backend module. </br>
 💼 I'm looking for an opportunity to develop my career. </br>
 💬 Willing to contribute more and more in Open Source Projects </br>
+
+#### Contact me
+<div>
+  ✉️ E-mail: carlos.flach15@gmail.com
+</div>
+<div>
+  🔗 Linkedin: https://www.linkedin.com/in/carlosafonsoflach/
+</div>
 
 <h2> Skills <img id="Skills" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
 <div style="display: inline_block" align="center">
@@ -64,15 +73,6 @@
     <img align="center" alt="Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </a>
   </div>
-
-<h2 align="center">Connect with me:</h2>
-
- <div align="center">       
-  <a href="https://www.instagram.com/carlosaflach/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carlos.flach15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosafonsoflach/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>  
 
  <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35> </h2>
 
