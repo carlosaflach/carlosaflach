@@ -8,7 +8,7 @@
 ## About Me 🚀
 🌱 I am a Web  Full Stack Developer student at <a href="https://www.betrybe.com/">Trybe</a>. </br>
 👨‍💻 I am passionate about technology, learn new skills, know new cultures, travel and make a difference in the world. </br>
-💻 I am working as Front-end developer at <a href="https://dynamox.net/">Dynamox</a>. </br>
+💻 I am working as a Front-end developer at <a href="https://dynamox.net/">Dynamox</a>. </br>
 :dart: Currently I am improving my skills with TypeScript, and learning more about micro frontends. </br>
 💼 I'm looking for an opportunity to develop my career. </br>
 💬 Willing to contribute more and more in Open Source Projects </br>
