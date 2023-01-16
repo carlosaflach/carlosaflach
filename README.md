@@ -6,7 +6,7 @@
 </p>
  
 ## About Me 🚀
-🌱 I am a Web  Full Stack Developer student at <a href="https://www.betrybe.com/">Trybe</a>. </br>
+<!--- 🌱 I am a Web  Full Stack Developer student at <a href="https://www.betrybe.com/">Trybe</a>. </br> -->
 👨‍💻 I am passionate about technology, learn new skills, know new cultures, travel and make a difference in the world. </br>
 💻 I am working as a Front-end developer at <a href="https://dynamox.net/">Dynamox</a>. </br>
 :dart: Currently I am improving my skills with TypeScript, and learning more about micro frontends. </br>
@@ -74,30 +74,29 @@
     <img align="center" alt="Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </a>
   </div>
+<!--
+<h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35> </h2> 
 
- <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35> </h2>
-
-<!-- <details>  -->
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<details> 
+ <summary><b>💻 GitHub Profile Stats</b></summary> 
   <br/>
-  <p align="center">
+  <p align="center"> 
     <a href="https://github.com/carlosaflach/github-readme-stats"><img alt="Carlos Afonso Github Stats" src="https://github-readme-stats.vercel.app/api?username=carlosaflach&show_icons=true&count_private=true&theme=vue-dark" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosaflach&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="carlosaflach" height="192px"/>
   <br/>
   </p>
-<!-- </details> -->
+ </details>
 
 
-<!-- <details> -->
-<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
+ <details> 
+   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/carlosaflach"><img alt="Carlos Afonso Flach Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=carlosaflach&custom_title=Carlos%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/> -->
-
-<!-- </details> -->
-
+  <br/> 
+ </details> 
+-->
 
 
 
