@@ -6,10 +6,11 @@
 </p>
  
 ## About Me 🚀
-<!--- 🌱 I am a Web  Full Stack Developer student at <a href="https://www.betrybe.com/">Trybe</a>. </br> -->
-👨‍💻 I am passionate about technology, learn new skills, know new cultures, travel and make a difference in the world. </br>
-💻 I am working as a Front-end developer at <a href="https://dynamox.net/">Dynamox</a>. </br>
-:dart: Currently I am improving my skills with TypeScript. </br>
+
+🤖 I started to develop code when I was thirteen to automate some tasks in a game that I used to play in that time. </br>
+🤔 I've a bachelor degree in mechanical engineering, but I decided to learn and work with programming because it's what I really like to do!! </br>
+👨‍💻 I am working as a Front-end developer at <a href="https://dynamox.net/">Dynamox</a>. </br>
+🎯 Currently, I'm diving into my second graduation this time in Computer Science and I'm loving it!. </br>
 
 
 #### Contact me
